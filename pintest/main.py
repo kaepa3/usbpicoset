@@ -43,3 +43,4 @@ while True:
 
     # press CTRL+K, which in a web browser will open the search dialog
     time.sleep(0.1)
+b
